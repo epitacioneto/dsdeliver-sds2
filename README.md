@@ -1,4 +1,4 @@
-# Projeto da Semana DevSuperior 2.0 
+# Semana DevSuperior 2.0 (SDS2) Project
 
 # DSDeliver
 
