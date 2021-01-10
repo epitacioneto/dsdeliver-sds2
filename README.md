@@ -5,7 +5,7 @@
 
 https://epitacio-sds2.netlify.app/
 
-DS Delivery é uma aplicação full stack web construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+DS Delivery é uma aplicação full stack web construída durante a 2ª edição da **Semana DevSuperior** (#sds2), evento organizado pela [DevSuperior](https://devsuperior.com.br "Site da DevSuperior").
 
 A aplicação consiste em um programa para serviço delivery para restaurante, onde o usuário escolhe os produtos pelo catálogo disponibilizado, fornece o endereço de entrega, e depois estes dados são armazenados no banco em estados de 'pendente' e 'entregue'.
 
