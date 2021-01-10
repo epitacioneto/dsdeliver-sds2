@@ -1,4 +1,5 @@
 # DS Delivery
+[![NPM](https://img.shields.io/badge/License-MIT-red.svg)](https://github.com/epitacioneto/dsdeliver-sds2/blob/main/LICENSE)
 
 # Sobre o projeto
 
