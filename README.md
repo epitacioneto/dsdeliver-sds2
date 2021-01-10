@@ -17,6 +17,10 @@ A aplicação consiste em um programa para serviço delivery para restaurante, o
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/devsuperior/sds2/blob/master/assets/modelo-conceitual.png)
 
+## Padrão camadas adotado
+
+![Modelo de camadas](https://github.com/devsuperior/sds2/blob/master/assets/camadas.png)
+
 # Tecnologias utilizadas
 ## Back end
 - Java
